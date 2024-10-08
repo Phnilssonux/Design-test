@@ -1,0 +1,21 @@
+.works-section {
+  background-color: #333333;
+  min-height: 340px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.grid-container {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 100px;
+  -ms-grid-columns: 1fr 100px 1fr 100px 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+}

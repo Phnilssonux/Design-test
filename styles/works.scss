@@ -1,0 +1,13 @@
+.works-section {
+    background-color: #333333;
+    min-height: 340px;
+    display: flex;
+   justify-content: center;
+}
+
+.grid-container {
+    display: grid;
+    align-items: center;
+    gap: 100px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
