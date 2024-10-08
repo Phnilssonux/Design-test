@@ -1,5 +1,6 @@
 .booking-section1 {
     background-image: url(/images/madridimg1.png);
+    background-size: cover;
     min-height: 700px;
     display: flex;
     align-items: center;
@@ -22,6 +23,7 @@
 
 .booking-section2 {
     background-image: url(/images/madridimg2.png);
+    background-size: cover;
     min-height: 700px;
     display: flex;
     justify-content: flex-end;
