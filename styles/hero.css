@@ -65,3 +65,7 @@ input {
   display: -ms-flexbox;
   display: flex;
 }
+
+.search-btn:hover {
+  background-color: #96a8f8;
+}

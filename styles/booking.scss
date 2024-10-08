@@ -1,0 +1,58 @@
+.booking-section1 {
+    background-image: url(/images/madridimg1.png);
+    min-height: 700px;
+    display: flex;
+    align-items: center;
+}
+
+.booking-card1 {
+    width: 543px;
+    height: 374px;
+    color: white;
+    background-color: black;
+    opacity: 0.9;
+    font-family: "Josefin Sans";
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 30px;
+    margin-left: 330px;
+
+}
+
+.booking-section2 {
+    background-image: url(/images/madridimg2.png);
+    min-height: 700px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.booking-card2 {
+    width: 543px;
+    height: 374px;
+    color: white;
+    background-color: black;
+    opacity: 0.9;
+    font-family: "Josefin Sans";
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 30px;
+    margin-right: 330px;
+
+}
+
+
+.booking-btn {
+    width: 228px;
+    height: 63px;
+    background-color: #5474FD;
+    color: white;
+    font-family: "Aleo";
+    font-size: 16px;
+}
+
+.booking-btn:hover {
+    background-color: #96a8f8;
+}
