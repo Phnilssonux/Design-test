@@ -1,0 +1,54 @@
+.us-section {
+  background-image: url(../images/whyusimage.png);
+  background-size: cover;
+  min-height: 685px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.us-text {
+  color: white;
+  width: 560px;
+  font-family: "Josefin Sans";
+  font-size: 16px;
+  letter-spacing: 2px;
+}
+
+.us-title {
+  font-family: "Aleo";
+  font-size: 36px;
+}
+
+.us-btn {
+  background-color: #5474FD;
+  color: white;
+  width: 228px;
+  height: 63px;
+  font-family: "Aleo";
+  font-size: 16px;
+  border: none;
+}
+
+.us-img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.img1 {
+  margin-right: 20;
+}
+
+.img2 {
+  margin-top: 10px;
+}

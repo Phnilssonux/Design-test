@@ -1,0 +1,45 @@
+.us-section {
+    background-image: url(../images/whyusimage.png);
+    background-size: cover;
+    min-height: 685px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.us-text {
+    color: white;
+    width: 560px;
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    letter-spacing: 2px;
+    
+}
+
+.us-title {
+    font-family: "Aleo";
+    font-size: 36px;
+}
+
+.us-btn {
+    background-color: #5474FD;
+    color: white;
+    width: 228px;
+    height: 63px;
+    font-family: "Aleo";
+    font-size: 16px;
+    border: none;
+}
+
+.us-img {
+    display: flex;
+    flex-direction: column;
+}
+
+.img1 {
+    margin-right: 20;
+}
+
+.img2 {
+    margin-top: 10px;
+}
